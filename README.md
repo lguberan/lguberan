@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! Here, you'll find open-source projects focused o
 ### [springai-faq-rag](https://github.com/lguberan/springai-faq-rag)
 A Java-native **Retrieval-Augmented Generation (RAG)** system powered by **Spring AI** and **pgvector**. This project provides dynamic FAQs with human validation and confidence scoring. It demonstrates the integration of **LLMs** in enterprise-grade solutions.
 
-- **Tech stack**: Java 23, Spring Boot 3.2.4, Spring AI, PostgreSQL + pgvector, Docker, Vite.js.
+- **Tech stack**: Java 23, Spring Boot 3.5.8, Spring AI, PostgreSQL + pgvector, Docker, Vite.js.
 - **Key features**:
     - Retrieval-Augmented Generation (RAG) pipeline.
     - Persistent vector storage with **pgvector**.

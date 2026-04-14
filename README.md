@@ -1,13 +1,13 @@
-# My Portfolio
+# Welcome to my GitHub page
 
-Welcome to my GitHub portfolio! Here, you'll find open-source projects focused on **Java**, **Spring Boot**, **AI**, **Kafka**, **Elasticsearch**, **Monitoring**, and **Data Visualization**. My work revolves around building robust distributed systems, AI-enhanced applications, and real-time analytics tools.
+I build distributed systems and AI-powered applications using Java and Spring. Here, you'll find open-source projects focused on **Java**, **Spring Boot**, **AI**, **Kafka**, **Elasticsearch**, **Monitoring**, and **Data Visualization**. My work revolves around building robust distributed systems, AI-enhanced applications, and real-time analytics tools.
 
-## Featured Projects
+## Selected Projects
 
 ### [springai-faq-rag](https://github.com/lguberan/springai-faq-rag)
 A Java-native **Retrieval-Augmented Generation (RAG)** system powered by **Spring AI** and **pgvector**. This project provides dynamic FAQs with human validation and confidence scoring. It demonstrates the integration of **LLMs** in enterprise-grade solutions.
 
-- **Tech stack**: Java 23, Spring Boot 3.5.8, Spring AI, PostgreSQL + pgvector, Docker, Vite.js.
+- **Tech stack**: Java 25, Spring Boot 4, Spring AI, PostgreSQL + pgvector, Docker, Vite.js.
 - **Key features**:
     - Retrieval-Augmented Generation (RAG) pipeline.
     - Persistent vector storage with **pgvector**.
@@ -53,7 +53,7 @@ A data visualization dashboard for Swiss public transport schedules.
 
 ---
 
-## Technologies & Skills
+## Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -67,5 +67,5 @@ A data visualization dashboard for Swiss public transport schedules.
 ## GitHub Stats
 
 <p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lguberan&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lguberan&show_icons=true&theme=radical&v=1" />
 </p>

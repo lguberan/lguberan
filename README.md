@@ -66,6 +66,5 @@ A data visualization dashboard for Swiss public transport schedules.
 
 ## GitHub Stats
 
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lguberan&show_icons=true&theme=radical&v=1" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lguberan&show_icons=true&theme=radical)
+
